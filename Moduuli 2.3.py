@@ -5,4 +5,4 @@ pinta_ala = kanta * korkeus
 print(f"suorakulmion piiri: {piiri}")
 print(f"suorakulmion pinta-ala: {pinta_ala}")
 
-3
+3bg

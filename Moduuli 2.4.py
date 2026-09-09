@@ -7,3 +7,5 @@ keskiarvo = summa / 3
 print(f"summa: {summa}")
 print(f"tulo: {tulo}")
 print(f"keskiarvo: {keskiarvo}")
+
+4

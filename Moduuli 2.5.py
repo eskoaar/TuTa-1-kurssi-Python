@@ -7,3 +7,5 @@ kilogrammat = int(grammat_yhteensa // 1000)
 grammat = grammat_yhteensa % 1000
 print("\n massa:")
 print(f"{kilogrammat} kiloa {grammat:.2f} grammaa.")
+
+5

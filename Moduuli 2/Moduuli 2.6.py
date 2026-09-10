@@ -1,5 +1,4 @@
 import random
-
 koodi1_numero1 = str(random.randint(0, 9))
 koodi1_numero2 = str(random.randint(0, 9))
 koodi1_numero3 = str(random.randint(0, 9))

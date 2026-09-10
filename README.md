@@ -1,7 +1,5 @@
 PYTHON TEHTÄVÄT:
 
-
-
 Moduuli 1
 
 tehtävät tehty

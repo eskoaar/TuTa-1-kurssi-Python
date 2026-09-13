@@ -10,4 +10,4 @@ tehtävät tehty
 
 ## Moduuli 3
 
-kesken
+tehtävät tehty

@@ -5,6 +5,5 @@ for i in range(5):
   kaupungit.append(kaupunki)
 
 print("\nsyötetyt kaupungit:")
-# Käydään läpi for/in-toistorakenteella[cite: 2]
 for kaupunki in kaupungit:
   print(kaupunki)
